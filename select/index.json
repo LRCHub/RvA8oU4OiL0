@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "So Done",
+  "base_artist": "Billy Laurent",
+  "createdAt": "2026-03-03T14:18:58.410215Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You So Done (Against The Machine)",
+      "artist": "Noga Erez",
+      "has_synced": false,
+      "path": "select/01_You_So_Done_(Against_The_Machine)_Noga_Erez.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SO DONE",
+      "artist": "The Kid LAROI",
+      "has_synced": true,
+      "path": "select/02_SO_DONE_The_Kid_LAROI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "So Done (feat. Khalid)",
+      "artist": "Alicia Keys feat. Khalid",
+      "has_synced": true,
+      "path": "select/03_So_Done_(feat._Khalid)_Alicia_Keys_feat._Khalid.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "So Done (Feat. Khalid)",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/04_So_Done_(Feat._Khalid)_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "So Done",
+      "artist": "Alicia Keys",
+      "has_synced": true,
+      "path": "select/05_So_Done_Alicia_Keys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "So Done",
+      "artist": "Alicia Keys feat. Khalid",
+      "has_synced": true,
+      "path": "select/06_So_Done_Alicia_Keys_feat._Khalid.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SO DONE",
+      "artist": "The Kid LAROI",
+      "has_synced": true,
+      "path": "select/07_SO_DONE_The_Kid_LAROI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "SO DONE",
+      "artist": "The Kid LAROI",
+      "has_synced": true,
+      "path": "select/08_SO_DONE_The_Kid_LAROI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "So Done",
+      "artist": "Alicia Keys ft. Khalid",
+      "has_synced": true,
+      "path": "select/09_So_Done_Alicia_Keys_ft._Khalid.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "So Done (feat. Khalid)",
+      "artist": "Alicia Keys,Khalid",
+      "has_synced": true,
+      "path": "select/10_So_Done_(feat._Khalid)_Alicia_Keys,Khalid.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "So Done (feat. Khalid)",
+      "artist": "Alicia Keys, Khalid",
+      "has_synced": true,
+      "path": "select/11_So_Done_(feat._Khalid)_Alicia_Keys,_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'm so Done",
+      "artist": "Cody Francis",
+      "has_synced": false,
+      "path": "select/12_I'm_so_Done_Cody_Francis.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "YOU SO DONE",
+      "artist": "Noga Erez",
+      "has_synced": true,
+      "path": "select/13_YOU_SO_DONE_Noga_Erez.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "So Done",
+      "artist": "BILLY LAURENT",
+      "has_synced": false,
+      "path": "select/pl_01_So_Done_BILLY_LAURENT.txt"
+    }
+  ]
+}
